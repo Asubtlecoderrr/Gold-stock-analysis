@@ -72,8 +72,6 @@ venv\Scripts\activate      # Windows
 pip install -r requirements.txt
 ```
 
----
-
 **4. Environment Setup**
 
 Create a `.env` file in the root directory:
@@ -81,8 +79,6 @@ Create a `.env` file in the root directory:
 ```env
 RESEND_API_KEY=your_resend_api_key
 ```
-
----
 
 **5. Run the App**
 
