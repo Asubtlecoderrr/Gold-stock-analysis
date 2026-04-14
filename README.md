@@ -10,8 +10,6 @@ A full-stack Streamlit application that predicts gold prices (₹ per 10g) using
 ## Received Mail
 <img width="1228" height="346" alt="Screenshot 2026-04-14 at 3 46 05 PM" src="https://github.com/user-attachments/assets/fca307f1-d519-476d-8df9-9c9c4ea049c3" />
 
----
-
 ## Features
 
 * 📈 **Gold Price Prediction**
