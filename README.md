@@ -80,15 +80,11 @@ RESEND_API_KEY=your_resend_api_key
 streamlit run app.py
 ```
 
----
-
 ## Email Alerts (Resend)
 
 * Uses `onboarding@resend.dev` as default sender
 * Only verified emails can receive alerts (in free plan)
 * Ensure your email is same as your Resend account
-
----
 
 ## Model Details
 
@@ -107,8 +103,6 @@ streamlit run app.py
   * Moving averages
   * RSI, Bollinger Bands
   * Volatility
-
----
 
 ## 📄 License
 
