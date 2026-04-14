@@ -104,6 +104,6 @@ streamlit run app.py
   * RSI, Bollinger Bands
   * Volatility
 
-## 📄 License
+## License
 
 This project is for educational purposes only.
