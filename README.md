@@ -36,8 +36,6 @@ A full-stack Streamlit application that predicts gold prices (₹ per 10g) using
   * Technical indicators (MA, RSI, Bollinger Bands)
   * Training loss visualization
 
----
-
 ## Tech Stack
 
 * **Frontend**: Streamlit
@@ -46,8 +44,6 @@ A full-stack Streamlit application that predicts gold prices (₹ per 10g) using
 * **Data Source**: Yahoo Finance (yfinance)
 * **Email Service**: Resend API
 * **Database**: Session-based (Streamlit state)
-
----
 
 ## Installation
 
