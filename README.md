@@ -51,14 +51,14 @@ A full-stack Streamlit application that predicts gold prices (₹ per 10g) using
 
 ## Installation
 
-### 1. Clone the repository
+**1. Clone the repository**
 
 ```bash
 git clone https://github.com/Asubtlecoderrr/Gold-stock-analysis.git
 cd Gold-stock-analysis
 ```
 
-### 2. Create virtual environment
+**2. Create virtual environment**
 
 ```bash
 python -m venv venv
@@ -66,7 +66,7 @@ source venv/bin/activate   # Mac/Linux
 venv\Scripts\activate      # Windows
 ```
 
-### 3. Install dependencies
+**3. Install dependencies**
 
 ```bash
 pip install -r requirements.txt
@@ -74,7 +74,7 @@ pip install -r requirements.txt
 
 ---
 
-## 4. Environment Setup
+**4. Environment Setup**
 
 Create a `.env` file in the root directory:
 
@@ -84,7 +84,7 @@ RESEND_API_KEY=your_resend_api_key
 
 ---
 
-## 5. Run the App
+**5. Run the App**
 
 ```bash
 streamlit run app.py
