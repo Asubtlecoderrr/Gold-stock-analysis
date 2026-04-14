@@ -8,3 +8,5 @@ __pycache__/
 *.db
 *.sqlite
 *.log
+gold_prediction_india.png
+gold_lstm_india.keras
